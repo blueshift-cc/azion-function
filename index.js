@@ -18,7 +18,7 @@ async function handleRequest(request) {
 
     switch (pathname) {
         case '/':
-            return new Response('Anyone can access the homepage!!!');
+            return new Response('Anyone can access the homepage!');
 
         case '/logout':
             // Invalidate the "Authorization" header by returning a HTTP 401.
