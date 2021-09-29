@@ -1,0 +1,22 @@
+{
+  "name": "azion-function",
+  "version": "1.0.0",
+  "description": "Azion Edge Function test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blueshift-cc/azion-function.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blueshift-cc/azion-function/issues"
+  },
+  "homepage": "https://github.com/blueshift-cc/azion-function#readme",
+  "dependencies": {
+    "bohr": "^1.0.49"
+  }
+}
